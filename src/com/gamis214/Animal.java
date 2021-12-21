@@ -2,7 +2,7 @@ package com.gamis214;
 
 
 public class Animal {
-
+//Añado un comentario
     private String nombre,tipo_alimentacion;
     private int edad;
 
